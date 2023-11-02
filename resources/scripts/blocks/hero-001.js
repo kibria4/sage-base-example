@@ -1,0 +1,1 @@
+console.log('Hello from hero-001.js');
